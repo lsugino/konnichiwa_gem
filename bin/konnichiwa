@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'konnichiwa'
+puts Konnichiwa.hi(ARGV[0])
